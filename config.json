@@ -1,0 +1,31 @@
+{
+    "token": "OTYwOTA3OTE0MDcwMDg1NzUy.YkxROw.84HOMoHI_H8LEuNg2egpg5kf9z4",
+    "prefix": "$",
+    "status": "",
+    "suburl": {
+        "https://discord.com/api/webhooks/961050770344656956/oVdoWRVapdO_mKHUmI-iECtHJI7HZCFUDf9bbsSL7Xu07jqDMXQKx-d0zTjRqI6ZykJN": {
+            "url": "https://www.vinted.fr/vetements?brand_id%5B%5D=162&brand_id%5B%5D=304&brand_id%5B%5D=2319&brand_id%5B%5D=14&brand_id%5B%5D=94&size_id%5B%5D=207&size_id%5B%5D=208&size_id%5B%5D=209&status%5B%5D=2&status%5B%5D=1&status%5B%5D=6&status%5B%5D=3&catalog%5B%5D=79&price_to=10.0&currency=EUR&search_id=4286226388&order=newest_first",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/961065697344102440/8nl70UuqDpmPWVuzOriT7IU4_T16chdfbTDtiYiArWbL4L74PVXnBx4HrUfrVu87T930": {
+            "url": "https://www.vinted.fr/vetements?search_text=Ralph%20lauren&search_id=4968824616&catalog[]=2050&size_id[]=208&size_id[]=209&brand_id[]=88&price_to=20&currency=EUR&status[]=1&status[]=6&status[]=2&order=newest_first",
+            "salon": "ralphlauren"
+        },
+        "https://discord.com/api/webhooks/961066925180452994/RawUlcXLzPulzyrRIGoPQCHdMS8cM0C7PKIwphYjKFr1ZnJEN3Q_8L_zLuPUlxrwxhkC": {
+            "url": "https://www.vinted.fr/vetements?search_id=4968824616&catalog[]=2050&size_id[]=208&size_id[]=209&currency=EUR&status[]=1&status[]=6&status[]=2&order=newest_first&brand_id[]=94&price_to=10",
+            "salon": "tommy"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
